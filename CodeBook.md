@@ -28,4 +28,4 @@ The following text files were used specifically:
 8) **features.txt**: List of the 561 features collected by the accelerometer and gyroscope. These were used to label the columns of the data frames. 
 
 
-There were **84 duplicated columns** in the dataset which were not required and thus removed to allow use of the **dplyr** package.
+There were **84 duplicated columns** in the dataset which were not required and thus removed to allow use of the **dplyr** package. The script will run as long as the working directory is set to the path which contains the **UCI HAR Dataset folder**.
